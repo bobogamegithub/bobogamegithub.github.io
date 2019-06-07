@@ -1,0 +1,21 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #eb3c03;
+}
+
+#box{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+}
+
+#applet{
+    margin: auto;
+    margin-top: 5%;
+    border: 4px solid white;
+}
